@@ -1,4 +1,4 @@
-# [![QUEAZIFIED](https://raw.githubusercontent.com/queazified/uptime/assets/queazified-co-uk-1-24-2025.png)](https://uptime.queazified.co.uk)
+# [![QUEAZIFIED](https://github.com/queazified/uptime/blob/master/assets/queazified-co-uk-1-24-2025.png?raw=true)](https://uptime.queazified.co.uk)
 
 [![Uptime CI](https://github.com/queazified/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/queazified/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
